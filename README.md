@@ -8,6 +8,10 @@
 
 **Решение**
 
+[haproxy.cfg](files/1/haproxy.cfg)
+
+![img](img/1-01.png)
+
 ---
 
 ### Задание 2
@@ -18,6 +22,10 @@
 
 **Решение**
 
+[haproxy.cfg](files/2/haproxy.cfg)
+
+![img](img/2-01.png)
+
 ---
 
 ### Задание 3*
@@ -26,6 +34,13 @@
 - На проверку направьте конфигурационные файлы nginx, HAProxy, скриншоты с запросами jpg картинок и других файлов на Simple Python Server, демонстрирующие корректную настройку.
 
 **Решение**
+
+[examle-http.cfg](files/3/example-http.cfg)
+
+[haproxy.cfg](files/3/haproxy.cfg)
+
+![img](img/3-01.png)
+![img](img/3-02.png)
 
 ---
 
@@ -38,3 +53,7 @@
 - На проверку направьте конфигурационный файл HAProxy, скриншоты, демонстрирующие запросы к разным фронтендам и ответам от разных бэкендов.
 
 **Решение**
+
+[haproxy.cfg](files/4/haproxy.cfg)
+
+![img](img/4-01.png)
